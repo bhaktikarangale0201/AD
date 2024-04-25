@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">exp_2</string>
+    <string-array name="subnames">
+        <item >ANDROID DEVELOPMENT</item>
+        <item>DIGITAL MARKETING</item>
+    </string-array>
+</resources>
